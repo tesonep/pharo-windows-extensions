@@ -1,0 +1,23 @@
+{
+	"category" : "PharoWin32-Types",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"BYTE",
+		"DWORD",
+		"HRESULT",
+		"HWND",
+		"LPCLSID",
+		"LPCSTR",
+		"LPVOID",
+		"LPWSTR",
+		"UINT",
+		"WORD" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Win32Types",
+	"pools" : [
+		 ],
+	"super" : "SharedPool",
+	"type" : "normal" }
